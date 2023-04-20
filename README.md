@@ -8,6 +8,10 @@
 
 # 🤖 Template NodeJS
 
+O template em Node com TypeScript, Prettier, ESLint, EditorConfig, Jest e Husky é uma estrutura de projeto que combina várias ferramentas para melhorar a qualidade e a consistência do código. TypeScript é uma linguagem que adiciona tipagem estática ao JavaScript, o que ajuda a evitar erros de digitação e outros problemas comuns. Prettier é uma ferramenta de formatação de código que garante que o código seja consistente e fácil de ler.
+
+ESLint é uma ferramenta de análise de código que ajuda a identificar e corrigir problemas de estilo e sintaxe. EditorConfig é uma ferramenta que ajuda a manter a consistência do estilo de codificação entre diferentes editores de código. Jest é um framework de testes que permite criar e executar testes automatizados. Husky é uma ferramenta de pré-commit que permite executar scripts antes de confirmar as alterações no repositório. Juntas, essas ferramentas fornecem uma base sólida para desenvolver aplicativos em Node.js de alta qualidade, com código limpo, legível e bem testado.
+
 1. 🧹 eslint
 2. 📚 prettier
 3. 🛠️ editorConfig
